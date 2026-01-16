@@ -1,8 +1,10 @@
 # Reversi (Othello) - With AI
 
 A sophisticated command-line implementation of the classic Reversi (Othello) board game featuring an intelligent AI opponent powered by the Minimax algorithm with Alpha-Beta pruning.
-
+## Console based
 ![Reversi Game Screenshot](Reversi.png)
+## GUI based
+![Reversi Game Screenshot](ReversiGUI.png)
 
 ## Overview
 
